@@ -6,6 +6,8 @@
 
 <br><br>
 
+!(https://github.com/fereshtehsdz/website-post-test/blob/images/0005_%23%23%23200483370005.jpg)
+
 From 2023 to the time of writing, I’ve worked with a group—mostly young people with architectural backgrounds—on a project that placed them in direct, sustained, and experimental engagement with neighborhoods in the south side of Tehran, particularly Khazaneh and Naziabad. They were invited to reflect creatively on spatial questions and generate architectural projects. These were conceived as disciplinary experiments rather than direct interventions. Still, the context—and their growing understanding of it—played a decisive role in shaping the work.
 
 This unfolded across two editions of a six-month educational studio, guided by an intellectual framework we call Nakameli (Incompleteness)—a term resonant with the lived realities of these neighborhoods. In Iran reliance on standardized methods, planning, technologies, and materials often reinforces external dependency and reproduces poverty. Nakameli seeks to embrace the flaws embedded in difficult contexts, uncovering overlooked resources and putting them to creative use.
@@ -58,7 +60,7 @@ The space between the monolithic wall and the fragment-walls feels charged, like
 
 This liminal strip becomes a charged threshold between those whose decisions and narratives shape the city and those who live with their consequences. As I stood there, a faint question started to linger: what kind of relationship might this tension—the interstice between walls—forge with the way people inhabit space here, and with the spatial questions the place provokes?
 
-![Walls standing across from each other in Lab-e Khat, Khazaneh. Photos by author](image.url)
+![Walls standing across from each other in Lab-e Khat, Khazaneh. Photos by author](https://github.com/fereshtehsdz/website-post-test/blob/images/0002_%23%23%23200483370002.jpg)
 
 ## Grandmotherly Approach
 Mohamadreza Ghodousi, my collaborator and the director of Studio Nakameli, also leads ZAV Architects and coined the term Nakameli.
