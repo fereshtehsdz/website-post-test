@@ -8,9 +8,15 @@
 
 ![Lab-e Khat, the site of study of Studio Nakameli, ed. 6 and 7](https://github.com/fereshtehsdz/website-post-test/blob/images/0005_%23%23%23200483370005.jpg)
 
+###### Lab-e Khat, the site of study of Studio Nakameli, ed. 6 and 7. Photo by author. 
+
+<br><br>
+
 From 2023 to the time of writing, I’ve worked with a group—mostly young people with architectural backgrounds—on a project that placed them in direct, sustained, and experimental engagement with neighborhoods in the south side of Tehran, particularly Khazaneh and Naziabad. They were invited to reflect creatively on spatial questions and generate architectural projects. These were conceived as disciplinary experiments rather than direct interventions. Still, the context—and their growing understanding of it—played a decisive role in shaping the work.
 
 This unfolded across two editions of a six-month educational studio, guided by an intellectual framework we call Nakameli (Incompleteness)—a term resonant with the lived realities of these neighborhoods. In Iran reliance on standardized methods, planning, technologies, and materials often reinforces external dependency and reproduces poverty. Nakameli seeks to embrace the flaws embedded in difficult contexts, uncovering overlooked resources and putting them to creative use.
+
+<br>
 
 ## The North and the South
 The unequal distribution of resources has inscribed social inequalities onto Tehran’s topography. As a result, the higher foothill areas in the north benefit from a milder climate, more abundant water, and greener landscapes. Once summer retreats, these neighborhoods now house the urban elite in low-density areas with ample amenities. 
@@ -29,6 +35,8 @@ Weather has worn it down. Rainwater has left streaks, and peeling paint reveals 
 Behind it rises a large housing complex of red brick facades and tall plane trees: the Chahar-Sad Dastgah project, built about eighty years ago for industrial workers. Small units with standard amenities were set among generous public green spaces. Some attribute its design to a former secretary of the Tudeh Party, arguing that the housing typologies supported working-class movements culminating in the 1979 Revolution.
 
 ![A wall in Naziabad bears the imprint of a former interior, now exposed to the street. Tehran’s Beautification Organization planned to turn it into a small public space. Photo by author.](https://github.com/fereshtehsdz/website-post-test/blob/images/Figure%201.jpg)
+###### A wall in Naziabad bears the imprint of a former interior, now exposed to the street. Tehran’s Beautification Organization planned to turn it into a small public space. Photo by author.
+<br><br>
 
 ## Beautification Projects
 In 2019, Tehran’s “Beautification” Organization marked around fifteen small vacant lots—each about 50 square meters—in the city’s southern neighborhoods. Each was handed to a prominent architect to be reimagined as a small public space. I was assigned one of these plots on behalf of a participating architect. The wall I’ve described stands as part of it. 
