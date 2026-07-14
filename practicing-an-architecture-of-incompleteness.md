@@ -26,7 +26,7 @@ Weather has worn it down. Rainwater has left streaks, and peeling paint reveals 
 
 Behind it rises a large housing complex of red brick facades and tall plane trees: the Chahar-Sad Dastgah project, built about eighty years ago for industrial workers. Small units with standard amenities were set among generous public green spaces. Some attribute its design to a former secretary of the Tudeh Party, arguing that the housing typologies supported working-class movements culminating in the 1979 Revolution.
 
-![A wall in Naziabad bears the imprint of a former interior, now exposed to the street. Tehran’s Beautification Organization planned to turn it into a small public space. Photo by author.](image-url)
+![A wall in Naziabad bears the imprint of a former interior, now exposed to the street. Tehran’s Beautification Organization planned to turn it into a small public space. Photo by author.]([image-url](https://github.com/fereshtehsdz/website-post-test/blob/images/Figure%201.jpg)
 
 ## Beautification Projects
 In 2019, Tehran’s “Beautification” Organization marked around fifteen small vacant lots—each about 50 square meters—in the city’s southern neighborhoods. Each was handed to a prominent architect to be reimagined as a small public space. I was assigned one of these plots on behalf of a participating architect. The wall I’ve described stands as part of it. 
