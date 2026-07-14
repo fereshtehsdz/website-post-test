@@ -1,6 +1,7 @@
 # Practicing an Architecture of Incompleteness
 
 *Architectural essay by Fereshteh Assadzadeh Sheikhjani, 2025* 
+
 *An account of an experimental architectural studio in Tehran's southern neighborhoods, where students learn to suspend their instinct to "fix" and instead observe what already exists: fragment-walls, scorched surfaces, Iranit panels, drug dealers' escape routes, and a grandmotherly economy that wastes nothing. The essay argues that incompleteness (nakameli) is not a flaw but a resource—and that architecture's role might be to work alongside it, not erase it.*
 
 From 2023 to the time of writing, I’ve worked with a group—mostly young people with architectural backgrounds—on a project that placed them in direct, sustained, and experimental engagement with neighborhoods in the south side of Tehran, particularly Khazaneh and Naziabad. They were invited to reflect creatively on spatial questions and generate architectural projects. These were conceived as disciplinary experiments rather than direct interventions. Still, the context—and their growing understanding of it—played a decisive role in shaping the work.
