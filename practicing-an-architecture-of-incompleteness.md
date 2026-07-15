@@ -4,8 +4,6 @@
 
 The essay appeared in the book [The Roofless Truth](https://www.park-books.com/en/product/the-roofless-truth/1725) edited by Matthias Drilling and Fabian Neuhaus.
 
-<br><br>
-
 > *An account of an experimental architectural studio in Tehran's southern neighborhoods, where students learn to suspend their instinct to "fix" and instead observe what already exists: fragment-walls, scorched surfaces, Iranit panels, drug dealers' escape routes, and a grandmotherly economy that wastes nothing. The essay argues that incompleteness (nakameli) is not a flaw but a resource—and that architecture's role might be to work alongside it, not erase it.*
 
 <br><br>
