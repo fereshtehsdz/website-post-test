@@ -1,11 +1,12 @@
 # The Glass Dome
 
 **Narrative Essay by Fereshteh Sheikhjani, April 2026**
+
 This is an excerpt. Full text available upon request for juries and editors. 
 
 <br>
 
-> A wartime meditation from a seventh-floor apartment in Tehran, where binoculars, windows, and the mountain's forbidden vantage point become instruments of orientation. The essay asks what it means to stand somewhere—physically, politically—when the ground is unstable, and why seeing for oneself matters more than any political abstraction.
+> *A wartime meditation from a seventh-floor apartment in Tehran, where binoculars, windows, and the mountain's forbidden vantage point become instruments of orientation. The essay asks what it means to stand somewhere—physically, politically—when the ground is unstable, and why seeing for oneself matters more than any political abstraction.*
 
 <br><br>
 
