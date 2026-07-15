@@ -223,5 +223,7 @@ Perhaps it is not standard for all design studios to end with the construction o
 
 Here, “material” is never only physical. It carries social, political, and symbolic weight. It resists, surprises, proposes. In such an exchange, architecture becomes less an act of execution and more a conversation—in which materials, contexts, and people all hold agency, shaping and being shaped in return.
 
+<br><br>
+
 ![the-roofless-truth_book-cover](https://github.com/fereshtehsdz/website-post-test/blob/incompleteness-images/incompleteness_images_09.jpg)
 ###### [The Roofless Truth](https://www.park-books.com/en/product/the-roofless-truth/1725) edited by Matthias Drilling and Fabian Neuhaus
