@@ -7,7 +7,7 @@
 <br><br>
 
 ![reflection-taped-window](https://github.com/fereshtehsdz/website-post-test/blob/glass-dome_images/glass-dome_images_01.jpg)
-###### Photo by Shirin Rezaei. Used with permission. 
+###### Photo by [Shirin Rezaee](https://www.shirinrezaee.com/). Used with permission. 
 
 <br><br>
 
@@ -32,4 +32,4 @@ They had denied me the closest thing to a total view. I didn't dare protest thei
 <br><br>
 
 ![broken-window](https://github.com/fereshtehsdz/website-post-test/blob/glass-dome_images/incompleteness_images_02.jpg)
-###### Photo by Shirin Rezaei. Used with permission. 
+###### Photo by [Shirin Rezaee](https://www.shirinrezaee.com/). Used with permission. 
