@@ -1,6 +1,6 @@
 # Practicing an Architecture of Incompleteness
 
-## **Architectural essay by Fereshteh Assadzadeh Sheikhjani, 2025** 
+**Architectural essay by Fereshteh Assadzadeh Sheikhjani, 2025** 
 
 The essay appeared in the book [The Roofless Truth](https://www.park-books.com/en/product/the-roofless-truth/1725) edited by Matthias Drilling and Fabian Neuhaus.
 
