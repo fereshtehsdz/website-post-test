@@ -6,7 +6,7 @@ The essay appeared in the book [The Roofless Truth](https://www.park-books.com/e
 
 <br><br>
 
-## *"An account of an experimental architectural studio in Tehran's southern neighborhoods, where students learn to suspend their instinct to "fix" and instead observe what already exists: fragment-walls, scorched surfaces, Iranit panels, drug dealers' escape routes, and a grandmotherly economy that wastes nothing. The essay argues that incompleteness (nakameli) is not a flaw but a resource—and that architecture's role might be to work alongside it, not erase it."*
+## *An account of an experimental architectural studio in Tehran's southern neighborhoods, where students learn to suspend their instinct to "fix" and instead observe what already exists: fragment-walls, scorched surfaces, Iranit panels, drug dealers' escape routes, and a grandmotherly economy that wastes nothing. The essay argues that incompleteness (nakameli) is not a flaw but a resource—and that architecture's role might be to work alongside it, not erase it.*
 
 <br><br>
 
@@ -195,7 +195,6 @@ They began noticing other improvised structures: reused wooden beehive boxes, an
 <br><br>
 
 They designed a modular structure combining these elements with their own architectural language. It could extend living spaces or improve rooftop circulation. They tested it on the rooftop of an Afghan family’s cramped rental home. The landlord had locked something suspicious in a small Iranit shed, roof and walls were sealed with the same material, making the space stifling and dark. The students proposed a wooden staircase for rooftop access and redesigned the ceiling with a lighter, bricolaged wooden system to replace the heavy Iranit. They even built part of the ceiling as a mock-up.
-![modular](https://github.com/fereshtehsdz/website-post-test/blob/images/Figure%2019%20-%201.png)
 
 <br>
 
@@ -210,7 +209,7 @@ Based on these permissions, walls of the willing homes were removed. Instead of 
 
 <br><br>
 
-![Objects stand in for rooms, defining zones for cooking, washing, and resting, all connected by the swift, continuous path of a motorcycle. Image courtesy of Studio Nakameli, CAAI. Images by Arezou Rahmanpour.](https://github.com/fereshtehsdz/website-post-test/blob/images/Figure%2023%20-%204.png)
+![Objects stand in for rooms, defining zones for cooking, washing, and resting, all connected by the swift, continuous path of a motorcycle. Image courtesy of Studio Nakameli, CAAI. Images by Arezou Rahmanpour.](https://github.com/fereshtehsdz/website-post-test/blob/incompleteness-images/incompleteness_images_10.jpg)
 ###### Objects stand in for rooms, defining zones for cooking, washing, and resting, all connected by the swift, continuous path of a motorcycle. Image courtesy of Studio Nakameli, CAAI. Images by Arezou Rahmanpour.
 
 <br><br>
