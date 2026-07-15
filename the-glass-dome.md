@@ -2,11 +2,7 @@
 
 **Narrative Essay by Fereshteh Sheikhjani, April 2026**
 
-<br>
-
-This is an excerpt. Full text available upon request for juries and editors. 
-
-<br>
+<br><br>
 
 > *A wartime meditation from a seventh-floor apartment in Tehran, where binoculars, windows, and the mountain's forbidden vantage point become instruments of orientation. The essay asks what it means to stand somewhere—physically, politically—when the ground is unstable, and why seeing for oneself matters more than any political abstraction.*
 
@@ -15,7 +11,12 @@ This is an excerpt. Full text available upon request for juries and editors.
 ![reflection-taped-window](https://github.com/fereshtehsdz/website-post-test/blob/glass-dome_images/glass-dome_images_01.jpg)
 ###### Photo by Shirin Rezaei. Used with permission. 
 
-Excerpt
+<br><br>
+
+This is an excerpt. Full text available upon request for juries and editors. 
+
+<br>
+
 I stayed in both wars. There is no pride in this decision. No signs of courage, no patriotism, no attachment to home, no stubbornness, not even practicality. None of these motives challenge the logic of leaving, of seeking physical protection. The danger, with all its dispersed threats, has not yet reached my doorstep. It is still a few neighborhoods away, a few streets, a few buildings, a few steps. What is it that makes me stay? Is it because it matters where I stand in the war? That question is what I read between the lines of my notes.
 
 When I travel to other cities, I automatically assume the high ground is north. That’s often not the case, and I easily get disoriented. In Tehran just find the mountains. That’s north. That’s how I know where I stand. 
