@@ -2,6 +2,8 @@
 
 **Narrative Essay by Fereshteh Sheikhjani, April 2026**
 
+<br>
+
 This is an excerpt. Full text available upon request for juries and editors. 
 
 <br>
