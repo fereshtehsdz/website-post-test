@@ -6,7 +6,7 @@
 
 <br><br>
 
-![Lab-e Khat, the site of study of Studio Nakameli, ed. 6 and 7](https://github.com/fereshtehsdz/website-post-test/blob/images/0005_%23%23%23200483370005.jpg)
+![Lab-e Khat, the site of study of Studio Nakameli, ed. 6 and 7](incompleteness_images_01.jpg)
 
 ###### Lab-e Khat, the site of study of Studio Nakameli, ed. 6 and 7. Photo by author. 
 
@@ -40,7 +40,7 @@ Behind it rises a large housing complex of red brick facades and tall plane tree
 
 <br><br>
 
-![A wall in Naziabad bears the imprint of a former interior, now exposed to the street. Tehran’s Beautification Organization planned to turn it into a small public space. Photo by author.](https://github.com/fereshtehsdz/website-post-test/blob/images/Figure%201.jpg)
+![A wall in Naziabad bears the imprint of a former interior, now exposed to the street. Tehran’s Beautification Organization planned to turn it into a small public space. Photo by author.](incompleteness_images_02.jpg)
 ###### A wall in Naziabad bears the imprint of a former interior, now exposed to the street. Tehran’s Beautification Organization planned to turn it into a small public space. Photo by author.
 
 <br><br>
@@ -68,7 +68,7 @@ But the walls I find more telling are the ordinary ones: the remnants of modest 
 
 <br><br>
 
-![Ruinous walls in the historic neighborhood of Oudlajan decorated with cave-like paintings. Photo by author.](https://github.com/fereshtehsdz/website-post-test/blob/images/Figure%204%20-%201.png)
+![Ruinous walls in the historic neighborhood of Oudlajan decorated with cave-like paintings. Photo by author.](incompleteness_images_03.jpg)
 ###### Ruinous walls in the historic neighborhood of Oudlajan decorated with cave-like paintings. Photo by author.
 <br><br>
 
@@ -83,7 +83,7 @@ This liminal strip becomes a charged threshold between those whose decisions and
 
 <br><br>
 
-![Walls standing across from each other in Lab-e Khat, Khazaneh. Photos by author](https://github.com/fereshtehsdz/website-post-test/blob/images/0002_%23%23%23200483370002.jpg)
+![Walls standing across from each other in Lab-e Khat, Khazaneh. Photos by author](incompleteness_images_04.jpg)
 ###### Walls standing across from each other in Lab-e Khat, Khazaneh. Photos by author.
 
 <br><br>
@@ -114,7 +114,7 @@ At the Nakameli table, Reza sits with the students and Mahshid, another instruct
 
 <br><br>
 
-![Studio opening exercise: students describe a person under a blanket to suspend preconceptions and observe the site with fresh eyes. Photo by author.](https://github.com/fereshtehsdz/website-post-test/blob/images/Figure%207.jpg)
+![Studio opening exercise: students describe a person under a blanket to suspend preconceptions and observe the site with fresh eyes. Photo by author.](incompleteness_images_05.jpg)
 ###### Studio opening exercise: students describe a person under a blanket to suspend preconceptions and observe the site with fresh eyes. Photo by author.
 
 <br><br>
@@ -136,7 +136,7 @@ Students are encouraged to stay with ambiguity, to delay conclusions. They now s
 
 <br><br>
 
-![A student peering through a wall in Lab-e Khat. Image courtesy of Studio Nakameli, CAAI. Photo by Matin Boroumand, Studio Nakameli student.](https://github.com/fereshtehsdz/website-post-test/blob/images/Figure%208.JPG)
+![A student peering through a wall in Lab-e Khat. Image courtesy of Studio Nakameli, CAAI. Photo by Matin Boroumand, Studio Nakameli student.](incompleteness_images_06.jpg)
 ###### A student peering through a wall in Lab-e Khat. Image courtesy of Studio Nakameli, CAAI. Photo by Matin Boroumand, Studio Nakameli student.
 
 <br><br>
@@ -148,8 +148,8 @@ What began as a formal and tectonic study, shifted once they started speaking wi
 
 <br><br>
 
-![A resident’s imperfect drawing translated memory into a reimagined past. Image courtesy of Studio Nakameli, CAAI. Photos by Niloufar Mohebbi.](https://github.com/fereshtehsdz/website-post-test/blob/images/Figure%2011%20-%201.jpg)
-![A resident’s imperfect drawing translated memory into a reimagined past. Image courtesy of Studio Nakameli, CAAI. Photos by Niloufar Mohebbi.](https://github.com/fereshtehsdz/website-post-test/blob/images/Figure%2011%20-%202.jpg)
+![A resident’s imperfect drawing translated memory into a reimagined past. Image courtesy of Studio Nakameli, CAAI. Photos by Niloufar Mohebbi.](incompleteness_images_07-01.jpg)
+![A resident’s imperfect drawing translated memory into a reimagined past. Image courtesy of Studio Nakameli, CAAI. Photos by Niloufar Mohebbi.](incompleteness_images_07-02.jpg)
 ###### A resident’s imperfect drawing translated memory into a reimagined past. Image courtesy of Studio Nakameli, CAAI. Photos by Niloufar Mohebbi.
 
 <br><br>
@@ -185,7 +185,7 @@ They began noticing other improvised structures: reused wooden beehive boxes, an
 
 <br><br>
 
-![Found objects in Khazaneh: a metal frame and used wooden beehives. Image courtesy of Studio Nakameli, CAAI. Photos by Nava Memari, Matin Boroumand, and Noushin Tighbakhsh.](https://github.com/fereshtehsdz/website-post-test/blob/images/Figure%2018%20-%202.png)
+![Found objects in Khazaneh: a metal frame and used wooden beehives. Image courtesy of Studio Nakameli, CAAI. Photos by Nava Memari, Matin Boroumand, and Noushin Tighbakhsh.](incompleteness_images_08.jpg)
 ###### Found objects in Khazaneh: a metal frame and used wooden beehives. Image courtesy of Studio Nakameli, CAAI. Photos by Nava Memari, Matin Boroumand, and Noushin Tighbakhsh.
 
 <br><br>
@@ -221,3 +221,6 @@ In this essay I have gone through my personal experience with Studio Nakameli as
 Perhaps it is not standard for all design studios to end with the construction of mock-ups. In ours, students work at 1:1 scale—not out of mere technical concern, but because thinking evolves through making. In premodern, place-based building traditions, thought, craft, and material context were inseparable; each shaped the others in real time. Contemporary practice often fractures this entanglement: design is completed before materials are touched, and making is outsourced or industrialized. In contrast, our students experienced a rhythm in which thinking emerged through engagement with materials, constraints, and context.
 
 Here, “material” is never only physical. It carries social, political, and symbolic weight. It resists, surprises, proposes. In such an exchange, architecture becomes less an act of execution and more a conversation—in which materials, contexts, and people all hold agency, shaping and being shaped in return.
+
+![the-roofless-truth_book-cover](incompleteness_images_09.jpg)
+###### The Roofless Truth edited by 
