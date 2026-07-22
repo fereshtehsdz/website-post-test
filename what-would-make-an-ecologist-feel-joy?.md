@@ -1,4 +1,4 @@
-# What would make an ecologist feel joy?
+# What Would Make an Ecologist Feel Joy?
 
 **Architectural essay by Fereshteh Assadzadeh Sheikhjani and Mohamadreza Ghodousi, 2026**
 
